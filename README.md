@@ -240,7 +240,7 @@ everything about llm based agent
 
 # 指南手册
 - [智能体设计模式](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0#)
-  - [中译版（翻译中）](https://github.com/ginobefun/agentic-design-patterns-cn)
+  - [中译版](https://jimmysong.io/zh/book/agentic-design-patterns/)
 - [Google Startup Technical Guide for AI Agents](./handbooks/google-startup_technical_guide_ai_agents_final.pdf)
 - [Weaviate Agentic Architecture](./handbooks/Weaviate%20Agentic%20Architectures-ebook.pdf)
 - [Microsoft: Agent Governance whitepaper](./handbooks/Microsoft-Agent-governance-whitepaper.pdf)
