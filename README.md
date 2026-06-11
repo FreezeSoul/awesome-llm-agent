@@ -3,6 +3,9 @@ everything about llm based agent
  latest update: 2025-12-19
 # 论文
 ## 综述
+- [A Survey of Agent Skills: Toward Procedural Infrastructure for LLM Agents](https://www.preprints.org/manuscript/202605.1276)
+
+- [Agent Harness Engineering: A Survey](https://picrew.github.io/LLM-Harness/)
 - [A Survey on Agentic Security: Applications, Threats and Defenses](https://arxiv.org/abs/2510.06445)
   ![](https://cdn.jsdelivr.net/gh/lizhe2004/pic-repo@master//imgs/20251013101641455.png)
 - [2023-09-19 The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864)
